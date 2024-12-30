@@ -1,0 +1,38 @@
+Speed: #33EBFF
+Slowness: #8BAFE0
+Haste: #D9C043
+Mining Fatigue: #4A4217
+Strength: #FFD700
+Instant Health: #F82423
+Instant Damage: #A9656A
+Jump Boost: #FDFF84
+Nausea: #551D4A
+Regeneration: #CD5CAB
+Resistance: #8f45ed
+Fire Resistance: #FF9900
+Water Breathing: #98DAC0
+Invisibility: #F6F6F6
+Blindness: #1F1F23
+Night Vision: #C2FF66
+Hunger: #587653
+Weakness: #484D48
+Poison: #87A363
+Wither: #352A27
+Health Boost: #F87D23
+Absorption: #2552A5
+Saturation: #F82421
+Levitation: #CEFFFF
+Slow Falling: #F3CFB9
+Conduit Power: #1DC2D1
+Bad Omen: #0b6138
+Hero of the Village: #44FF44
+Darkness: #292721
+Wind Charged: 
+Weaving: 
+Oozing: 
+Infested: 
+Glowing: #94A061
+Luck: #59C106
+Bad Luck: #C0A44D
+Fatal Poison: #4E9331
+Dolphin's Grace: #88A3BE

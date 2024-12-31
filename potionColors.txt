@@ -36,3 +36,35 @@ Luck: #59C106
 Bad Luck: #C0A44D
 Fatal Poison: #4E9331
 Dolphin's Grace: #88A3BE
+
+2
+Absorption: 3a82ff
+Blindness: 474c47
+Confusion: 862e76
+Damage Boost: fcc700
+Dig Slow Down: 766824
+Dig Speed: ffff6a
+Drinkable: 375cc4
+Fire Resistance: fc9700 
+Harm: a76469
+Heal: f52423
+Health Boost: ffc638
+Hunger: 8cba84
+Infested: 8a998a
+Invisibility: f3f3f3
+Jump: fafc82
+Move Slowdown: 89addd
+Move Speed: 32e8fc
+Night Vision: c0fc65
+Oozing: 97fca1
+Poison: 85a162
+Regeneration: cb5ba9
+Resistance: fc9700
+Saturation: f52423
+Slow Fall: f3cfb9
+Turtle Master: 8b80e3
+Water Breathing: 96d7be
+Weakness: 474c47
+Weaving: 776859
+Wind Charged: b4c0f0
+Wither: 736156

@@ -27,10 +27,10 @@ Conduit Power: #1DC2D1
 Bad Omen: #0b6138
 Hero of the Village: #44FF44
 Darkness: #292721
-Wind Charged: 
-Weaving: 
-Oozing: 
-Infested: 
+Wind Charged: #bdc7fc
+Weaving: #7c6d60
+Oozing: #99fca2
+Infested: #8d9c8d
 Glowing: #94A061
 Luck: #59C106
 Bad Luck: #C0A44D

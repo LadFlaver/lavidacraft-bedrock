@@ -3,7 +3,7 @@
   "header": {
     "description": "Various improvements to Minecraft made by Lad_FLaver.",
     "name": "LavidaCraft 1.8",
-    "uuid": "d03c1ff3-0a5a-44ec-a2e4-b1da5066a8eb",
+    "uuid": "b9ae5091-1137-473e-895e-6923675f8729",
     "version": [1, 8, 0],
     "min_engine_version": [1, 21, 0]
   },
@@ -11,7 +11,7 @@
     {
       "description": "Resource Pack",
       "type": "resources",
-      "uuid": "82a4011a-6e3d-4194-a053-fd6fcd684a0e",
+      "uuid": "a6198901-c5ea-44b5-812f-ff2932ea42dc",
       "version": [1, 0, 0]
     }
   ]

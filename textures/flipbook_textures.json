@@ -3,7 +3,6 @@
     "flipbook_texture": "textures/blocks/redstone_ore",
     "atlas_tile": "redstone_ore",
     "ticks_per_frame": 48,
-	"frames": [0, 1, 2, 3, 2, 1, 0, 0, 0],
     "blend_frames": true
   },
   {

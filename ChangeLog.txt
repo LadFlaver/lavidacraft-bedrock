@@ -1,19 +1,19 @@
-LavidaCraft 1.10
+LavidaCraft 1.12
 Added:
- - Brewing Fuel and Potion slot textures for Brewing Stand UI. (Java)
+ - Creeper texture. This is heavily inspired by the Lush Creepers resource pack. Check it out.
+ - Fletching Table texture. Now matches the bowstring color of bows.
+ - Nether Wart texture for items. Inspired by Theredheadedkid2.
+ - Barrel textures. The lid is now squared. Why was it a circle in Vanilla?
 Updated:
- - Sugar texture. Smaller and matches Minecraft's style better.
- - Kelp Block texture.
- - Lily Pad texture.
- - Pack format to 1.21.5.
- - Glowstone.
- - Glowstone Dust.
- - Redstone Ore, Deepslate Redstone Ore, and Redstone Torch textures.
-Removed:
- - Brewing Stand UI texture as it was longer necessary. This will break some backwards compatibility. (Java)
- - Terrain_texture.json since it was unused. (Bedrock)
+ - Potted Cactus textures. (Java)
+ - Enderman texture.
+ - Shield slot texture.
+ - Magma Block texture.
+ - Chiseled Stone Bricks texture. Slight shading adjustments.
+ - Bedrock texture. Based off of gabbro rock.
+ - End Crystal texture. Matches the new bedrock.
 Fixed:
- - Chorus Flower and Dead Chorus Flower block models. Scaling issues. (Java)
-Technical:
- - Gave Rail Fix textures their own namespace. (Java)
- - Gave LavidaCraft specific textures their own namespace. (Java)
+ - Rail Corner texture.
+Removed:
+ - Textures for Coal, Copper, Diamond, Gold, Iron, and Lapis Ore.
+ - Built in Rail Fix and Glowing Blocks Fix. These will remain available on my Modrinth profile. Including them in this pack feels redundant to me. (Java)

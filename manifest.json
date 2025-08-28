@@ -2,16 +2,16 @@
   "format_version": 2,
   "header": {
     "description": "Various improvements to Minecraft made by Lad_FLaver.",
-    "name": "LavidaCraft 1.13 Dev",
-    "uuid": "01694c65-5808-4847-a6fc-256f874fd348",
+    "name": "LavidaCraft 1.13",
+    "uuid": "ac209af8-bf3d-4447-8608-6a9545cc29a9",
     "version": [1, 13, 0],
-    "min_engine_version": [1, 21, 0]
+    "min_engine_version": [1, 21, 50]
   },
   "modules": [
     {
       "description": "Resource Pack",
       "type": "resources",
-      "uuid": "1d844899-c543-4821-b13d-a0eefdec1c0e",
+      "uuid": "670f3601-0c56-419b-8ef6-eaa0860d98d1",
       "version": [1, 0, 0]
     }
   ], 

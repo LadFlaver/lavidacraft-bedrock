@@ -2,9 +2,9 @@
   "format_version": 2,
   "header": {
     "description": "Various improvements to Minecraft made by Lad_FLaver.",
-    "name": "LavidaCraft 1.13",
+    "name": "LavidaCraft 1.14 Dev",
     "uuid": "ac209af8-bf3d-4447-8608-6a9545cc29a9",
-    "version": [1, 13, 0],
+    "version": [1, 14, 0],
     "min_engine_version": [1, 21, 50]
   },
   "modules": [

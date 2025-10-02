@@ -6,12 +6,6 @@
     "blend_frames": true
   },
   {
-    "flipbook_texture": "textures/blocks/redstone_torch_on",
-    "atlas_tile": "redstone_torch_on",
-    "ticks_per_frame": 48,
-    "blend_frames": true
-  },
-  {
     "flipbook_texture": "textures/blocks/deepslate_redstone_ore",
     "atlas_tile": "deepslate_redstone_ore",
     "ticks_per_frame": 48,
